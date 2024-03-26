@@ -1,19 +1,19 @@
 # Assignment-02
-We were told to write a technical report on strategies for bidding card game 'Diamonds' using GenAI.\
+We were told to write a technical report on strategies for bidding card game 'Diamonds' using GenAI.
 
-This report consists:\
+This report consists:
 
--Introduction\
+-Introduction
 
-  -Problem Statement\
+  -Problem Statement
   
--Methodology\
+-Methodology
 
--Teaching GenAI the game\
+-Teaching GenAI the game
 
--Itearting Upon the strategy\
+-Itearting Upon the strategy
 
--Code\
+-Code
 
--Analysis and Conclusion\
+-Analysis and Conclusion
 
